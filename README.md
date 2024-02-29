@@ -2,7 +2,7 @@
 
 Assignment 2 - Randomized Optimization
 
-Code can be accessed at this Github repository: 
+Code can be accessed at this Github repository: https://github.com/Vi2x101/CS7641-Randomized-Optimization.git
 
 Before running any code, it is advised to download any packages needed using requirements.txt.
 
